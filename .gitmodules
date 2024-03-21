@@ -232,3 +232,9 @@
 [submodule "pi22-4/boikova"]
 	path = pi22-4/boikova
 	url = https://github.com/boikova2604/boikova
+[submodule "Kugach-fa-np-practice"]
+	path = Kugach-fa-np-practice
+	url = https://github.com/Con2023/Kugach-fa-np-practice
+[submodule "Kugach"]
+	path = Kugach
+	url = https://github.com/Con2023/Kugach-fa-np-practice
