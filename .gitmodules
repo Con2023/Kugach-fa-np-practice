@@ -238,3 +238,6 @@
 [submodule "Sk"]
 	path = Sk
 	url = https://github.com/Con2023/Kugach-fa-np-practice
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/Con2023/7_TCP_server
